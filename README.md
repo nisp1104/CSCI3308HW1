@@ -1,2 +1,2 @@
-# CSCI3308HW1
+# CSCI3308 Website
 Repository to host web page created for class
